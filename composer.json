@@ -18,7 +18,7 @@
   ],
   "require": {
     "laravel/lumen-framework": "^8",
-    "spiral/roadrunner": "^2.0.0",
+    "spiral/roadrunner": "^3.0.0",
     "spiral/goridge": "^3.0",
     "symfony/psr-http-message-bridge": "^1.2 || ^2.0",
     "nyholm/psr7": "^1.1"
